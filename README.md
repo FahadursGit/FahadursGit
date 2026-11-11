@@ -1,82 +1,123 @@
-# Hi, I'm Fahadur Rahman 👋
+<!-- Animated Header -->
+<div align="center">
 
-### AI & Data Science Undergraduate | Aspiring Data Analyst | AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fahadur+Rahman+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Analyst;Exploring+Artificial+Intelligence;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 
-## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" />
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+</div>
 
-📊 Interested in Data Science, Data Analytics, and AI Engineering.
+<!-- About Me -->
+<h2 align="center">💫 About Me</h2>
 
-🤖 Exploring Machine Learning and AI-powered applications.
+<p align="center">
+🎓 B.Tech in Artificial Intelligence & Data Science<br>
+📊 Interested in Data Science, Data Analytics, and AI Engineering<br>
+🤖 Exploring Machine Learning and AI-powered applications<br>
+💻 Learning Java, Python, SQL, and Backend Development<br>
+🇯🇵 JLPT N5 Certified | Currently learning Japanese (N4)<br>
+🏆 Third Prize – Metaverse 2.0 National-Level Hackathon<br>
+👨‍🏫 Japanese Language Tutor – Guided around 100 college students<br>
+🌱 Always learning, building, and improving.
+</p>
 
-💻 Working with Java, Python, SQL, and Backend Development.
+<!-- Socials -->
+<h2 align="center">🌐 Connect With Me</h2>
 
-📈 Learning data visualization, data processing, and analytical techniques.
+<div align="center">
 
-🇯🇵 JLPT N5 Certified | Currently preparing for JLPT N4.
+<a href="https://github.com/Fahadur20Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/fahadur-rahman-26605b296">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:fahadur516@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🏆 Third Prize – Metaverse 2.0 National-Level 24-Hour Hackathon.
+</div>
 
-👨‍🏫 Japanese Language Tutor – Guided approximately 100 college students.
+<!-- Tech Stack -->
+<h2 align="center">💻 Tech Stack</h2>
 
-🌱 Passionate about learning, building projects, and solving real-world problems.
+<h3 align="center">Programming Languages</h3>
 
-## 🛠️ Technical Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>
 
-**Programming Languages**
+<h3 align="center">Data Science & Analytics</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
-**Data Science & Analytics**
+<h3 align="center">Backend & Development</h3>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,html,css,js,flask" />
+</p>
 
-**Backend & Development**
+<h3 align="center">Tools & Platforms</h3>
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" />
+</p>
 
-**Tools & Platforms**
+<!-- Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<div align="center">
 
-## 🚀 Featured Projects
+| Project | Description |
+|:---:|:---|
+| Quran Memorization AI | AI-assisted Quran memorization application |
+| AI Pothole Detection | Computer vision and road safety project |
+| Supplier Illusion | Supplier management system – Hackathon |
+| UniSphere | AI-powered application using Gemini and Spring Boot |
 
-- **AI-Powered Quran Memorization Application** – Speech recognition and AI-assisted Quran memorization.
-- **AI-Based Pothole Detection** – Exploring computer vision and location-based road safety solutions.
-- **Supplier Illusion** – Supplier management system developed during a national-level hackathon.
-- **UniSphere** – AI-powered application integrating Gemini and Spring Boot.
+</div>
 
-## 🏆 Achievements
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements</h2>
 
-- 🥉 Third Prize – Metaverse 2.0 National-Level Hackathon.
-- 🇯🇵 JLPT N5 Certified.
-- 👨‍🏫 Japanese Language Tutor – Approximately 100 students.
+<p align="center">
+🥉 Third Prize – Metaverse 2.0 National-Level Hackathon<br>
+🇯🇵 JLPT N5 Certified<br>
+👨‍🏫 Japanese Language Teaching Experience – 100 Students
+</p>
 
-## 🌐 Connect With Me
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fahadur20Git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahadur-rahman-26605b296)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadur516@gmail.com)
+<div align="center">
 
-## 📊 GitHub Statistics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fahadur20Git&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=Fahadur20Git&show_icons=true&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://streak-stats.demolab.com/?user=Fahadur20Git&theme=tokyonight&hide_border=true" />
 
-![](https://streak-stats.demolab.com/?user=Fahadur20Git&theme=tokyonight&hide_border=true)
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadur20Git&layout=compact&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadur20Git&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
----
+<!-- Contribution Animation -->
+<h2 align="center">🐍 Contribution Activity</h2>
 
-⭐ *Learn continuously. Build consistently. Improve every day.*
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fahadur20Git/Fahadur20Git/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation"/>
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+**⭐ Learn Continuously | Build Consistently | Improve Every Day**
+
+<img src="https://komarev.com/ghpvc/?username=Fahadur20Git&style=for-the-badge&color=blue" />
+
+</div>
